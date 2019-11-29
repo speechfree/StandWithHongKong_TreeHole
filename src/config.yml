@@ -32,7 +32,8 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'image'
         required: false
         tagname: ''
-      - {label: Tags, name: tags, widget: list, default: ['言论自由', '因言获罪']}
+      - {label: Tags, name: tags, widget: list, default: []}
+      - {label: 'Summary', name: summary, widget: 'string', tagname: ''}
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
     meta:
       - { label: 'SEO Description', name: 'description', widget: 'text' }

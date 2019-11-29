@@ -1,0 +1,46 @@
+baseURL = "/"
+site_url = "https://standwithhongkong-treehole.netlify.com"
+relativeURLs = true
+languageCode = "zh-cn"
+title = "Stand With HongKong"
+auth = "Stand With HongKong"
+description = "Stand With HongKong"
+theme = "jeffprod"
+copyright = "Copyright © Stand With HongKong"
+enableRobotsTXT = true
+disableAliases = true
+googleAnalytics = "UA-151212685-2"
+summaryLength = 50
+media_folder = "/site/static/images/uploads"
+public_folder = "/static/images/uploads"
+
+[params]
+  DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
+
+[outputs]
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+
+[permalinks]
+    post = "/post/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+
+[mediaTypes."text/netlify"]
+suffixes = [""]
+delimiter = ""
+
+# add output format for netlify _redirects
+[outputFormats.REDIRECTS]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+
+# add output format for netlify _headers
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true

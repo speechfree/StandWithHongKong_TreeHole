@@ -2,7 +2,7 @@
 [build.environment]
   YARN_VERSION = "1.12.1"
   NPM_VERSION = "6.4.1"
-  HUGO_VERSION = "0.58.0"
+  HUGO_VERSION = "0.60.0"
 
 [build]
   command = "npm run build"

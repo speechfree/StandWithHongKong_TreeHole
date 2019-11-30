@@ -102,7 +102,7 @@ title = "Get the best hugo templates"
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 [params.cta.button]
 enable = true
-label = "Visit Here"
+label = "Submit here"
 link = "https://gethugothemes.com/shop/"
 
 

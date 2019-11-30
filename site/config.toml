@@ -116,20 +116,20 @@ title = "Fight for Freedom and Stand With Hong Kong"
 description = "結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。"
 [params.cta.button]
 enable = true
-label = "Visit Here"
+label = "Submit here"
 link = "https://docs.google.com/forms/d/e/1FAIpQLSeR_JRiGo4y5inWer3VcvKRS9x2nHwKAxmFHy3Gk7KkvI6_ug/viewform"
 
 
 ############################## Social Site ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/WeSupportHongKong/"
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.twitter.com/midwaydude/"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/speechfree/StandWithHongKong_TreeHole"
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+# link = "#"

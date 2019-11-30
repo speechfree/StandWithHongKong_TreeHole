@@ -13,7 +13,7 @@
         "preview:hugo": "npm run start:hugo -- -D -F",
         "preview:webpack": "npm run start:webpack",
         "prebuild": "rimraf dist",
-        "build": "npm run build:webpack && npm run build:hugo",
+        "build": "NF_IMAGE_VERSION=1 bash ./netlify-build-fix.sh && LD_LIBRARY_PATH=$(pwd)/tmp/usr/lib/x86_64-linux-gnu $(pwd)/tmp/usr/local/bin/hugo && npm run build:webpack && npm run build:hugo",
         "build:preview": "npm run build:webpack && npm run build:hugo:preview",
         "build:hugo": "hugo --theme='northendlab' -d ../dist -s site -v",
         "build:hugo:preview": "npm run build:hugo -- -D -F",

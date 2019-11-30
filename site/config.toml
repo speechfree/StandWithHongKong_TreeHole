@@ -23,6 +23,9 @@ home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
 [permalinks]
     post = "/post/:filename"
 
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
 
 [mediaTypes."text/netlify"]
 suffixes = [""]

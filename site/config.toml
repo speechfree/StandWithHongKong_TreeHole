@@ -14,11 +14,6 @@ summaryLength = 50
 media_folder = "/site/static/images/uploads"
 public_folder = "/static/images/uploads"
 disqusShortname = "standwithhongkong"
-
-[backend]
-  name = "git-gateway"
-  accept_roles = ["admin","editor"] #optional - accepts all users if left out
-
 [params]
   DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
 

@@ -5,12 +5,11 @@
   HUGO_VERSION = "0.58.0"
 
 [build]
-  command = "yarn build"
+  command = "npm run build"
   publish = "dist"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
-
+  command = "npm run build:preview"
 # [build]
 #   publish = "output"
 #   command = 'cd src && hugo  --theme="jeffprod" --destination="../output"'

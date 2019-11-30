@@ -16,3 +16,7 @@
 
 [点击提交](https://docs.google.com/forms/d/e/1FAIpQLSeR_JRiGo4y5inWer3VcvKRS9x2nHwKAxmFHy3Gk7KkvI6_ug/viewform)
 
+
+[Netlify 地址](https://standwithhongkong-treehole.netlify.com)
+
+[Github Pages 地址](https://speechfree.github.io/StandWithHongKong_TreeHole/)

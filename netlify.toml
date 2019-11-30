@@ -1,6 +1,6 @@
 [context.production.environment]
   HUGO_THEME = "northendlab"
-  HUGO_VERSION = "0.58.3"
+  HUGO_VERSION = "0.60.1"
   HUGO_ENABLEGITINFO = "true"
 
 # [build.environment]

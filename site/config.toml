@@ -1,0 +1,135 @@
+baseURL = "/"
+site_url = "https://standwithhongkong-treehole.netlify.com"
+relativeURLs = true
+languageCode = "zh-cn"
+title = "Stand With HongKong"
+auth = "Stand With HongKong"
+description = "Stand With HongKong"
+theme = "northendlab"
+copyright = "Copyright © Stand With HongKong"
+enableRobotsTXT = true
+disableAliases = true
+googleAnalytics = "UA-151212685-2"
+summaryLength = 50
+media_folder = "/site/static/images/uploads"
+public_folder = "/static/images/uploads"
+disqusShortname = "standwithhongkong"
+
+
+[outputs]
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+
+[permalinks]
+    post = "/post/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+
+[mediaTypes."text/netlify"]
+suffixes = [""]
+delimiter = ""
+
+# add output format for netlify _redirects
+[outputFormats.REDIRECTS]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+
+# add output format for netlify _headers
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
+
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+# [[menu.main]]
+# URL = "contact"
+# name = "Contact"
+# weight = 1
+
+# [[menu.main]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
+
+# # footer menu
+# [[menu.footer]]
+# URL = "contact"
+# name = "Contact"
+# weight = 1
+
+# [[menu.footer]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/logo.png"
+DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
+# search
+[params.search]
+enable = false
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "我們知道中國從來不只有一種聲音。我們在意在夾縫之間的少數派，說著普通話，來自內地，卻和香港心意相通。"
+image = "images/banner/illustration.svg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/hugo-muscot.svg"
+title = "Fight for Freedom and Stand With Hong Kong"
+description = "結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。"
+[params.cta.button]
+enable = true
+label = "Visit Here"
+link = "https://docs.google.com/forms/d/e/1FAIpQLSeR_JRiGo4y5inWer3VcvKRS9x2nHwKAxmFHy3Gk7KkvI6_ug/viewform"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "#"

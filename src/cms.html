@@ -9,6 +9,12 @@
   <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
+    <div data-netlify-identity-menu></div>
+
+  <!-- Add a simpler button:
+    Simple button that will open the modal.
+  -->
+  <div data-netlify-identity-button>Login with Netlify Identity</div>
   <script src="<%= htmlWebpackPlugin.files.chunks.cms.entry %>"></script>
 </body>
 </html>

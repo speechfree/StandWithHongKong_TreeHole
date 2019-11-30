@@ -16,7 +16,7 @@ public_folder = "/static/images/uploads"
 disqusShortname = "standwithhongkong"
 
 [backend]
-  name = git-gateway
+  name = "git-gateway"
   accept_roles = ["admin","editor"] #optional - accepts all users if left out
 
 [params]

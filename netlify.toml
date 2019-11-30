@@ -1,3 +1,7 @@
+[context.production.environment]
+  HUGO_VERSION = "0.60.1"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
 [build.environment]
   YARN_VERSION = "1.12.1"

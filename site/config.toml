@@ -47,21 +47,21 @@ notAlternative = true
 
 # css plugins
 [[params.plugins.css]]
-URL = "plugins/bootstrap/bootstrap.min.css"
+URL = "/plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-URL = "plugins/themify-icons/themify-icons.css"
+URL = "/plugins/themify-icons/themify-icons.css"
 
 # js plugins
 [[params.plugins.js]]
-URL = "plugins/jQuery/jquery.min.js"
+URL = "/plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-URL = "plugins/bootstrap/bootstrap.min.js"
+URL = "/plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-URL = "plugins/search/fuse.min.js"
+URL = "/plugins/search/fuse.min.js"
 [[params.plugins.js]]
-URL = "plugins/search/mark.js"
+URL = "/plugins/search/mark.js"
 [[params.plugins.js]]
-URL = "plugins/search/search.js"
+URL = "/plugins/search/search.js"
 
 
 ########################### Navigation ###################################
@@ -94,7 +94,7 @@ URL = "plugins/search/search.js"
 # home
 home = "Home"
 # logo
-logo = "images/logo.png"
+logo = "/images/logo.png"
 DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
 # search
 [params.search]
@@ -103,15 +103,15 @@ enable = false
 
 ####################### banner #######################################
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
+bgImage = "/images/banner/banner-bg.svg"
 title = "我們知道中國從來不只有一種聲音。我們在意在夾縫之間的少數派，說著普通話，來自內地，卻和香港心意相通。"
-image = "images/banner/illustration.svg"
+image = "/images/banner/illustration.svg"
 
 
 ######################## call to action ###############################
 [params.cta]
 enable = true
-image = "images/hugo-muscot.svg"
+image = "/images/hugo-muscot.svg"
 title = "Fight for Freedom and Stand With Hong Kong"
 description = "結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。"
 [params.cta.button]

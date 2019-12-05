@@ -14,10 +14,10 @@
     
     <item>
       <title>这是标题</title>
-      <link>/post/this-is-slug/</link>
+      <link>/post/2019-12-05-this-is-slug/</link>
       <pubDate>Thu, 05 Dec 2019 22:12:53 +0800</pubDate>
       
-      <guid>/post/this-is-slug/</guid>
+      <guid>/post/2019-12-05-this-is-slug/</guid>
       <description>hello world</description>
     </item>
     

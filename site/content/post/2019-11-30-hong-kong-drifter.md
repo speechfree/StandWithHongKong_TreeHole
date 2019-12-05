@@ -1,6 +1,7 @@
 ---
 title: 谢谢你帮不敢公开发言的大陆人建这样一个树洞
 date: '2019-11-30T02:11:05.0250000+08:00'
+slug: hong-kong-drifter
 tags:
   - 港漂
 summary: >-

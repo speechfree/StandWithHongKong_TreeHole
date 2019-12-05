@@ -20,7 +20,7 @@ disqusShortname = "standwithhongkong"
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
 
 [permalinks]
-    post = "/post/:slug"
+    post = "/post/:year-:month-:day-:slug"
 
 [taxonomies]
     tag = "tags"

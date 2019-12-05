@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © Stand With HongKong</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 02:11:05 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 22:12:53 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>这是标题</title>
+      <link>/post/this-is-slug/</link>
+      <pubDate>Thu, 05 Dec 2019 22:12:53 +0800</pubDate>
+      
+      <guid>/post/this-is-slug/</guid>
+      <description>hello world</description>
+    </item>
     
     <item>
       <title>从奶粉事件里内地人辱骂香港人的话语中，感受到了他们辱骂我的出生地时同样的风格</title>

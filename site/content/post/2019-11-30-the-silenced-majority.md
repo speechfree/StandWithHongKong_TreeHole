@@ -1,6 +1,7 @@
 ---
 title: 内地也有沉默的大多数老百姓。我们很清楚30年前和现在的事情谁对谁错
 date: '2019-11-30T02:11:05.0250000+08:00'
+slug: the-silenced-majority
 tags:
   - 30年前
 summary: >-

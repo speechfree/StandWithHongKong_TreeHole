@@ -1,6 +1,7 @@
 ---
 title: 无视老大哥指定的跪姿，在国家机器的轰鸣声的鼓噪后依旧成为一个人
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: keep-moving-and-ignore-big-brother
 tags:
   - 撕裂
 summary: >-

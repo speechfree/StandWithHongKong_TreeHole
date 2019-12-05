@@ -1,6 +1,7 @@
 ---
 title: 每天都在一个撕裂的环境里痛苦地过着。
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: live-in-pain
 tags:
   - 撕裂
 summary: >-

@@ -1,6 +1,7 @@
 ---
 title: 肉身在牆內，從鏡子反射的景象中知道對岸仍有血性。
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: with-from-cantonese
 tags:
   - 撕裂
 summary: >-

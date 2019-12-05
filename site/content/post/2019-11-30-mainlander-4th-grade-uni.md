@@ -1,6 +1,7 @@
 ---
 title: 很難想象大陸任何一個年齡段的人會有如此的勇氣追求金錢物質以外的東西
 date: '2019-11-30T02:11:05.0250000+08:00'
+slug: mainlander-4th-grade-uni
 tags:
   - 学生
 summary: >-

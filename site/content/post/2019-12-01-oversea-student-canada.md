@@ -1,6 +1,7 @@
 ---
 title: 身在海外卻關心香港抗爭者的普通人，对警暴一步步升級我感覺到越發的憤怒與無力
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: oversea-student-canada
 tags:
   - 撕裂
 summary: >-

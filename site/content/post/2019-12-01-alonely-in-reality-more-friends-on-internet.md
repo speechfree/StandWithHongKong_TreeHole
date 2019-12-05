@@ -1,6 +1,7 @@
 ---
 title: 现实中我从来都不敢表露自己的政治倾向,怕被人孤立、排挤甚至陷害
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: alonely-in-reality-more-friends-on-internet
 tags:
   - 撕裂
 summary: >-

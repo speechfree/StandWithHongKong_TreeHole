@@ -1,6 +1,7 @@
 ---
 title: 大陆人赴港四次 Stand with Hongkong
 date: '2019-11-30T02:11:05.0250000+08:00'
+slug: mainlander-4times-stand-with-hongkong
 tags:
   - 内地
   - 赴港

@@ -1,6 +1,7 @@
 ---
 title: 香港人很了不起，这几个月来，香港人的坚持与真诚让我非常惊讶
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: growup-in-hk-culture
 tags:
   - 撕裂
 summary: >-

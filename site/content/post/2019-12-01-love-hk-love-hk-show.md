@@ -1,6 +1,7 @@
 ---
 title: 这个世界是因为有这样的 HK 年轻人而美好和可爱，而充满希望
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: love-hk-love-hk-show
 tags:
   - 撕裂
 summary: >-

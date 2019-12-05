@@ -1,6 +1,7 @@
 ---
 title: 你们的抗争事实上也是为了在极权统治下全体中国人的，不论你愿不愿意
 date: '2019-12-01T02:11:05.0250000+08:00'
+slug: fight-not-just-for-yourself
 tags:
   - 痛苦
 summary: >-

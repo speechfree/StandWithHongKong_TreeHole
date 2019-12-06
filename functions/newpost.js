@@ -5,7 +5,6 @@ var request = require("request");
 // populate environment variables locally.
 require('dotenv').config()
 
-
 const api_host = "https://api.github.com"
 const repo = "StandWithHongKong_TreeHole"
 const username = "speechfree"

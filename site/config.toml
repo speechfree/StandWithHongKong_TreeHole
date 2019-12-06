@@ -18,7 +18,7 @@ disqusShortname = "standwithhongkong"
 
 
 [outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS", "AMP", "JSON"]
 
 [permalinks]
     post = "/post/:year-:month-:day-:slug"

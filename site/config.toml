@@ -69,7 +69,7 @@ URL = "/plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "index.xml"
+URL = "https://speechfree.github.io/StandWithHongKong_TreeHole/post/index.xml"
 name = "RSS"
 weight = 1
 

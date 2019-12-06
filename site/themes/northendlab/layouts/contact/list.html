@@ -6,7 +6,10 @@
       <div class="col-lg-5">
         <h2 class="mb-4">{{ .Title | markdownify }}</h2>
         <div class="content">{{ .Content }}</div>
-        <form name="contact" method="POST" data-netlify="true">
+        <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+          <div class="col-md-6 hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+          </div>
           <div class="col-md-6">
             <input type="text" class="form-control mb-4" placeholder="Name" name="name" id="name">
           </div>

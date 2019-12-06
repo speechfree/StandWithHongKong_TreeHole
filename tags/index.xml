@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © Stand With HongKong</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 02:11:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 19:12:31 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hello</title>
+      <link>/tags/hello/</link>
+      <pubDate>Fri, 06 Dec 2019 19:12:31 +0800</pubDate>
+      
+      <guid>/tags/hello/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>撕裂</title>

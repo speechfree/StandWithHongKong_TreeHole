@@ -1,4 +1,5 @@
 baseURL = "/"
+DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
 site_url = "https://standwithhongkong-treehole.netlify.com"
 relativeURLs = true
 languageCode = "zh-cn"
@@ -67,10 +68,10 @@ URL = "/plugins/search/search.js"
 ########################### Navigation ###################################
 
 # main menu
-# [[menu.main]]
-# URL = "contact"
-# name = "Contact"
-# weight = 1
+[[menu.main]]
+URL = "index.xml"
+name = "RSS"
+weight = 1
 
 # [[menu.main]]
 # URL = "tools"
@@ -95,7 +96,7 @@ URL = "/plugins/search/search.js"
 home = "Home"
 # logo
 logo = "/images/logo.png"
-DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
+DEPLOY_PRIME_URL = "https://speechfree.github.io/StandWithHongKong_TreeHole"
 # search
 [params.search]
 enable = false

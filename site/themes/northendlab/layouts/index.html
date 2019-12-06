@@ -23,7 +23,7 @@
       <div class="col-lg-8 mx-auto px-0">
         <div class="bg-white shadow block">
           {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
-          {{ range $paginator.Pages.ByTitle.Reverse }}
+          {{ range $paginator.Pages.ByDate.Reverse }}
           <article class="mb-5">
             <h2 class="h4"><a class="text-dark" href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
             <div class="mb-3"><span>by <a

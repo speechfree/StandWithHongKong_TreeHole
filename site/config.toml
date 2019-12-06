@@ -1,4 +1,5 @@
 baseURL = "/"
+DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
 site_url = "https://standwithhongkong-treehole.netlify.com"
 relativeURLs = true
 languageCode = "zh-cn"

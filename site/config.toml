@@ -7,6 +7,7 @@ title = "Stand With HongKong"
 auth = "Stand With HongKong"
 description = "Stand With HongKong"
 theme = "northendlab"
+googleAnalitycsID = "UA-151212685-2"
 copyright = "Copyright © Stand With HongKong"
 enableRobotsTXT = true
 disableAliases = true
@@ -97,6 +98,7 @@ home = "Home"
 # logo
 logo = "/images/logo.png"
 DEPLOY_PRIME_URL = "https://speechfree.github.io/StandWithHongKong_TreeHole"
+googleAnalitycsID = "UA-151212685-2"
 # search
 [params.search]
 enable = false

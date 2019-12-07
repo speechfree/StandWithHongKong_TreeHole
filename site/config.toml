@@ -101,7 +101,7 @@ DEPLOY_PRIME_URL = "https://speechfree.github.io/StandWithHongKong_TreeHole"
 googleAnalitycsID = "UA-151212685-2"
 # search
 [params.search]
-enable = false
+enable = true
 
 
 ####################### banner #######################################

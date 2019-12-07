@@ -1,7 +1,6 @@
 ---
 title: 56.想与一班志同道合的朋友一起抗争奋斗，也能被叫一声“手足”！ Glory To HongKong
-slug: >-
-  https://standwithhongkong-treehole.netlify.com/post/2019-12-06-56-i-wanna-be-a-bro
+slug: 2019-12-06-56-i-wanna-be-a-bro
 date: '2019-12-06T21:12:29.5450000-05:00'
 tags:
   - StandWithHongKong

@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html lang="zh-cn"><head>
   <meta charset="utf-8">
-  <title>28.政治出柜</title>
+  <title>Search Result</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content=" 感觉作为一个异见者最悲哀的事情就是在现实生活中居然找不到一个跟你有相同想法的人。。。太痛苦，感觉自己孤立无援。 ">
+  <meta name="description" content=" 結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。">
   
   <meta name="generator" content="Hugo 0.58.2" />
 
   <!-- plugins -->
   
-  <link rel="stylesheet" href="../../plugins/bootstrap/bootstrap.min.css ">
+  <link rel="stylesheet" href="../plugins/bootstrap/bootstrap.min.css ">
   
-  <link rel="stylesheet" href="../../plugins/themify-icons/themify-icons.css ">
+  <link rel="stylesheet" href="../plugins/themify-icons/themify-icons.css ">
   
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href="../../scss/style.min.css" media="screen">
+  <link rel="stylesheet" href="../scss/style.min.css" media="screen">
 
   <!--Favicon-->
-  <link rel="shortcut icon" href="../../images/favicon.png " type="image/x-icon">
-  <link rel="icon" href="../../images/favicon.png " type="image/x-icon">
+  <link rel="shortcut icon" href="../images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="../images/favicon.png " type="image/x-icon">
   
   <meta name="twitter:card" content="summary_large_image">
   
   
-  <meta name="og:title" content=" 28.政治出柜 ">
-  <meta name="og:description" content=" 感觉作为一个异见者最悲哀的事情就是在现实生活中居然找不到一个跟你有相同想法的人。。。太痛苦，感觉自己孤立无援。 ">
-  <meta name="og:image" content="https://speechfree.github.io/StandWithHongKong_TreeHole/images/card/2.jpg">
+  <meta name="og:title" content=" Search Result ">
+  <meta name="og:description" content=" 結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。">
+  <meta name="og:image" content="https://speechfree.github.io/StandWithHongKong_TreeHole/images/card/1.jpg">
   
 
 </head><body><!-- navigation -->
@@ -37,7 +37,7 @@
   <div class="container">
     
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-      <a class="navbar-brand" href="../../"><img class="img-fluid" src="../../images/logo.png"
+      <a class="navbar-brand" href="../"><img class="img-fluid" src="../images/logo.png"
           alt="Stand With HongKong"></a>
       <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
         <i class="ti-menu h3"></i>
@@ -46,7 +46,7 @@
       <div class="collapse navbar-collapse text-center" id="navigation">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="../../"> Home </a>
+            <a class="nav-link" href="../"> Home </a>
           </li>
           
           
@@ -76,43 +76,29 @@
 
 <section class="section">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto block shadow mb-5">
-        <h2>28.政治出柜</h2>
-        <div class="mb-3"><span>by <a href="../../author/"></a></span>,
-          <span>at 06 December 2019</span>, category :
-          
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <h2>Search results for
+          <span class="text-primary">
+            <script>
+              var str = (window.location.search).substr(3);
+              var result = str.replace("+", " ");
+              
+              document.write(result);
+            </script>
+          </span>
+        </h2>
+        <div class="block shadow">
+          <div id="search-results"></div>
+          <script id="search-result-template" type="text/x-js-template">
+            <div class="py-4 border-bottom" id="summary-${key}">
+              <h4><a href="${link}">${title}</a></h4>
+              <p>${snippet}</p>
+              ${ isset tags }<p>Tags: ${tags}</p>${ end }
+              ${ isset categories }<p>Categories: ${categories}</p>${ end }
+            </div>
+        </script>
         </div>
-        
-        <div class="content mb-5">
-          <p>感觉作为一个异见者最悲哀的事情就是在现实生活中居然找不到一个跟你有相同想法的人。。。太痛苦，感觉自己孤立无援。</p>
-
-<p>我本人在国外读书，这两天也有跟身边的同学讨论香港问题。我很不能理解，一个个平时看起来很温和的人一碰到这种事情就跟打了鸡血一样，你们在讨论AB，你说A他们不说B他们先人身攻击。我不懂，他们这么紧张做什么？怕我摧毁他们的爱国梦，被人身攻击之后真的完全丧失与他们讨论的欲望。我认为都是同学一场有什么事情都可以温和讨论，何必要人身攻击呢。。。我觉得我这几天算是真正的政治出柜了，有点慌。</p>
-
-        </div>
-      </div>
-      <div class="col-lg-8 mx-auto block shadow">
-        
-        <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "standwithhongkong" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       </div>
     </div>
   </div>
@@ -123,7 +109,7 @@
   <div class="container">
     <div class="row justify-content-between align-items-center">
       <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
-        <a href="../../"><img src="../../images/logo.png" class="img-fluid"
+        <a href="../"><img src="../images/logo.png" class="img-fluid"
             alt="Stand With HongKong"></a>
       </div>
       <div class="col-lg-4 text-center mb-4 mb-lg-0">
@@ -159,19 +145,19 @@
 
 <!-- JS Plugins -->
 
-<script src="../../plugins/jQuery/jquery.min.js"></script>
+<script src="../plugins/jQuery/jquery.min.js"></script>
 
-<script src="../../plugins/bootstrap/bootstrap.min.js"></script>
+<script src="../plugins/bootstrap/bootstrap.min.js"></script>
 
-<script src="../../plugins/search/fuse.min.js"></script>
+<script src="../plugins/search/fuse.min.js"></script>
 
-<script src="../../plugins/search/mark.js"></script>
+<script src="../plugins/search/mark.js"></script>
 
-<script src="../../plugins/search/search.js"></script>
+<script src="../plugins/search/search.js"></script>
 
 <!-- Main Script -->
 
-<script src="../../js/script.min.js"></script>
+<script src="../js/script.min.js"></script>
 <!-- google analitycs -->
 <script>
   (function (i, s, o, g, r, a, m) {

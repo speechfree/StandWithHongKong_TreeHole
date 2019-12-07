@@ -106,9 +106,9 @@ enable = false
 
 ####################### banner #######################################
 [params.banner]
-bgImage = "/images/banner/banner-bg.svg"
+bgImage = "/images/banner/do-something-for-hong-kong.jpg"
 title = "我們知道中國從來不只有一種聲音。我們在意在夾縫之間的少數派，說著普通話，來自內地，卻和香港心意相通。"
-image = "/images/banner/illustration.svg"
+image = "/images/banner/"
 
 
 ######################## call to action ###############################

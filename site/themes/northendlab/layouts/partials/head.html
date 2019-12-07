@@ -22,6 +22,9 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- END -->
   <!-- OG -->
   <meta name="og:image" content="{{ .Site.Params.DEPLOY_PRIME_URL }}/images/card/{{ index (seq 10 | shuffle) 0 }}.jpg">
   <!-- END -->

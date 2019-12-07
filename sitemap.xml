@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019-12-07-falling-hk/</loc>
+    <lastmod>2019-12-07T15:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/falling-hk/</loc>
+    <lastmod>2019-12-07T15:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-07T15:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-07T15:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-07T15:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019-12-07-coward/</loc>
     <lastmod>2019-12-07T14:12:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/coward/</loc>
-    <lastmod>2019-12-07T14:12:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-12-07T14:12:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-12-07T14:12:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-12-07T14:12:47+08:00</lastmod>
   </url>
   
@@ -359,11 +369,6 @@
   
   <url>
     <loc>/post/2019-12-07-falling-hk/</loc>
-    <lastmod>2019-12-07T00:12:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/falling-hk/</loc>
     <lastmod>2019-12-07T00:12:00+08:00</lastmod>
   </url>
   

@@ -2,3 +2,4 @@ output
 _site
 public
 resources
+node_modules

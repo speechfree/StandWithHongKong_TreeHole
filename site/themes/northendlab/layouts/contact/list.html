@@ -6,7 +6,10 @@
       <div class="col-lg-5">
         <h2 class="mb-4">{{ .Title | markdownify }}</h2>
         <div class="content">{{ .Content }}</div>
-        <form method="POST" action="{{ .Site.Params.contactFormAction | safeURL}}" class="row">
+        <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+          <div class="col-md-6 hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+          </div>
           <div class="col-md-6">
             <input type="text" class="form-control mb-4" placeholder="Name" name="name" id="name">
           </div>
@@ -20,6 +23,7 @@
             <textarea name="message" id="message" class="form-control mb-4" placeholder="Type You Message Here"
               rows="5"></textarea>
           </div>
+          <div data-netlify-recaptcha="true"></div>
           <div class="col-12">
             <button class="btn btn-primary btn-block" type="submit">Send</button>
           </div>

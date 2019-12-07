@@ -14,3 +14,13 @@ services:
     command: hugo server --watch=true  --destination="/public" --bind="0.0.0.0"
     ports:
       - 1313:1313
+
+  # node:
+  #   container_name: node
+  #   image: "node:12"
+  #   user: "node"
+  #   working_dir: /home/node/app
+  #   volumes:
+  #     - ./functions:/home/node/app
+  #   # command: "npm start"
+  #   command: ["tail", "-f", "/dev/null"]

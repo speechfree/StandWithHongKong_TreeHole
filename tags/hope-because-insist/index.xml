@@ -1,26 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hope-because-insist on Stand With HongKong</title>
-    <link>https://speechfree.github.io/StandWithHongKong_TreeHole/tags/hope-because-insist/</link>
-    <description>Recent content in hope-because-insist on Stand With HongKong</description>
+    <title>hope-because-insist on </title>
+    <link>/tags/hope-because-insist/</link>
+    <description>Recent content in hope-because-insist on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>Copyright © Stand With HongKong</copyright>
     <lastBuildDate>Sat, 07 Dec 2019 15:12:54 +0800</lastBuildDate>
     
-        <atom:link href="/tags/hope-because-insist/index.xml" rel="self" type="application/rss+xml" />
-    
+	<atom:link href="/tags/hope-because-insist/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>77.不是因为有希望才坚持，而是因为坚持才有希望。</title>
-      <link>https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-12-07-hope-because-insist/</link>
+      <link>/post/2019-12-07-hope-because-insist/</link>
       <pubDate>Sat, 07 Dec 2019 15:12:54 +0800</pubDate>
       
       <guid>/post/2019-12-07-hope-because-insist/</guid>
       <description>那句【我雖勢弱言輕決不虛作無聲】 ，那首【愿荣光归香港】，作为一个大陆人，我羡慕你们。</description>
     </item>
-    
     
   </channel>
 </rss>

@@ -1,26 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>never-changed-since-1989 on Stand With HongKong</title>
-    <link>https://speechfree.github.io/StandWithHongKong_TreeHole/tags/never-changed-since-1989/</link>
-    <description>Recent content in never-changed-since-1989 on Stand With HongKong</description>
+    <title>never-changed-since-1989 on </title>
+    <link>/tags/never-changed-since-1989/</link>
+    <description>Recent content in never-changed-since-1989 on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>Copyright © Stand With HongKong</copyright>
     <lastBuildDate>Sat, 07 Dec 2019 15:12:32 +0800</lastBuildDate>
     
-        <atom:link href="/tags/never-changed-since-1989/index.xml" rel="self" type="application/rss+xml" />
-    
+	<atom:link href="/tags/never-changed-since-1989/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>61.三十年来，他们的伎俩从未变过</title>
-      <link>https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-12-07-never-changed-since-1989/</link>
+      <link>/post/2019-12-07-never-changed-since-1989/</link>
       <pubDate>Sat, 07 Dec 2019 15:12:32 +0800</pubDate>
       
       <guid>/post/2019-12-07-never-changed-since-1989/</guid>
       <description>我阅览了六四事件的官方公报，当时他们也是将反抗者称为“暴徒”。</description>
     </item>
-    
     
   </channel>
 </rss>

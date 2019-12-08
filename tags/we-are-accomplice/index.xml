@@ -1,26 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>we-are-accomplice on Stand With HongKong</title>
-    <link>https://speechfree.github.io/StandWithHongKong_TreeHole/tags/we-are-accomplice/</link>
-    <description>Recent content in we-are-accomplice on Stand With HongKong</description>
+    <title>we-are-accomplice on </title>
+    <link>/tags/we-are-accomplice/</link>
+    <description>Recent content in we-are-accomplice on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>Copyright © Stand With HongKong</copyright>
     <lastBuildDate>Sun, 08 Dec 2019 11:12:11 +0800</lastBuildDate>
     
-        <atom:link href="/tags/we-are-accomplice/index.xml" rel="self" type="application/rss+xml" />
-    
+	<atom:link href="/tags/we-are-accomplice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>91.只想说这场战争中，我们都是帮凶</title>
-      <link>https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-12-08-we-are-accomplice/</link>
+      <link>/post/2019-12-08-we-are-accomplice/</link>
       <pubDate>Sun, 08 Dec 2019 11:12:11 +0800</pubDate>
       
       <guid>/post/2019-12-08-we-are-accomplice/</guid>
       <description>我小时候和我父母说，我感激自己生活在和平年代，没有像他们一样经历文革经历饥荒经历64，然后今天自己站在时代的十字路口。</description>
     </item>
-    
     
   </channel>
 </rss>

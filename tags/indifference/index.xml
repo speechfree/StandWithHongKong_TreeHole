@@ -1,26 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>indifference on Stand With HongKong</title>
-    <link>https://speechfree.github.io/StandWithHongKong_TreeHole/tags/indifference/</link>
-    <description>Recent content in indifference on Stand With HongKong</description>
+    <title>indifference on </title>
+    <link>/tags/indifference/</link>
+    <description>Recent content in indifference on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>Copyright © Stand With HongKong</copyright>
     <lastBuildDate>Sat, 07 Dec 2019 15:12:02 +0800</lastBuildDate>
     
-        <atom:link href="/tags/indifference/index.xml" rel="self" type="application/rss+xml" />
-    
+	<atom:link href="/tags/indifference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>79.谢谢您开树洞。我想写一下我的“冷漠”</title>
-      <link>https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-12-07-indifference/</link>
+      <link>/post/2019-12-07-indifference/</link>
       <pubDate>Sat, 07 Dec 2019 15:12:02 +0800</pubDate>
       
       <guid>/post/2019-12-07-indifference/</guid>
       <description>我确实在自我审查、自我消声。但是还在意就应该不算冷漠，一开始写的冷漠二字也许可以划去吧</description>
     </item>
-    
     
   </channel>
 </rss>

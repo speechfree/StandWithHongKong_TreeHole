@@ -1,26 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>抗争 支持 平安 on Stand With HongKong</title>
-    <link>https://speechfree.github.io/StandWithHongKong_TreeHole/tags/%E6%8A%97%E4%BA%89-%E6%94%AF%E6%8C%81-%E5%B9%B3%E5%AE%89/</link>
-    <description>Recent content in 抗争 支持 平安 on Stand With HongKong</description>
+    <title>抗争 支持 平安 on </title>
+    <link>/tags/%E6%8A%97%E4%BA%89-%E6%94%AF%E6%8C%81-%E5%B9%B3%E5%AE%89/</link>
+    <description>Recent content in 抗争 支持 平安 on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>Copyright © Stand With HongKong</copyright>
     <lastBuildDate>Fri, 06 Dec 2019 19:12:41 +0100</lastBuildDate>
     
-        <atom:link href="/tags/%E6%8A%97%E4%BA%89-%E6%94%AF%E6%8C%81-%E5%B9%B3%E5%AE%89/index.xml" rel="self" type="application/rss+xml" />
-    
+	<atom:link href="/tags/%E6%8A%97%E4%BA%89-%E6%94%AF%E6%8C%81-%E5%B9%B3%E5%AE%89/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>39.谢谢你们，你们让这里的我们看到了阳光，谢谢你们，希望你们平安。</title>
-      <link>https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-12-06-whyicannotfight/</link>
+      <link>/post/2019-12-06-whyicannotfight/</link>
       <pubDate>Fri, 06 Dec 2019 19:12:41 +0100</pubDate>
       
       <guid>/post/2019-12-06-whyicannotfight/</guid>
       <description>为什么我没有抗争的权利啊？我可以争取吗？我有没有被允许去抗争？我只能坐着打下这些字，但是我还是想让他们知道，有大陆的学生在默默地支持着他们，虽然我这么无用。</description>
     </item>
-    
     
   </channel>
 </rss>

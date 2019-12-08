@@ -11,10 +11,19 @@ services:
     working_dir: /src/site
     # command: ["tail", "-f", "/dev/null"]
     # command: hugo server --bind="0.0.0.0"
-    command: hugo server --watch=true  --destination="/public" --bind="0.0.0.0"
+    command: hugo server --watch=true  --disableFastRender --destination="/public" --bind="0.0.0.0"
     ports:
       - 1313:1313
 
+  web:
+    container_name: web
+    image: nginx:stable
+    volumes:
+        - ./public:/usr/share/nginx/html:ro
+        - ./nginx/conf.d:/etc/nginx/conf.d
+    ports: 
+        - "80:80"
+    restart: always
   # node:
   #   container_name: node
   #   image: "node:12"

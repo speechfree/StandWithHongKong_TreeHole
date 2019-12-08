@@ -30,6 +30,7 @@ function executeSearch(searchQuery) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
+    console.log("pages", pages)
     console.log({ "matches": result });
     if (result.length > 0) {
       populateResults(result);

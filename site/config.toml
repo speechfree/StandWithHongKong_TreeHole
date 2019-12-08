@@ -14,7 +14,7 @@ disableAliases = true
 googleAnalytics = "UA-151212685-2"
 summaryLength = 50
 media_folder = "/site/static/images/uploads"
-public_folder = "/static/images/uploads"
+public_folder = "/site/static/images/uploads"
 disqusShortname = "standwithhongkong"
 
 

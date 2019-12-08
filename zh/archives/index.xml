@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Stand With HongKong</title>
+    <link>https://speechfree.github.io/StandWithHongKong_TreeHole/zh/archives/</link>
+    <description>Recent content in Archives on Stand With HongKong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © Stand With HongKong</copyright>
+    
+        <atom:link href="/zh/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

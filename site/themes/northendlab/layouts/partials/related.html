@@ -9,7 +9,7 @@
                 {{ $url := print .Site.Params.DEPLOY_PRIME_URL "/index.json"}}
                 {{$data := getJSON $url}}
                 {{ $posts :=  where $data "content" "!=" ""}}
-                {{ $posts :=  where $posts "title" "not in" (slice "Archives" "Search Result" "Contact Us") }}
+                {{ $posts :=  where $posts "title" "not in" (slice "Archives" "Search Result" "Contact Us" "Posts") }}
                 {{ $posts :=  where $posts "title" "!=" $title}}
                 {{$posts := ( $posts | shuffle) }}
                 {{range $index,$post := $posts}}

@@ -2,15 +2,15 @@
 
 <!-- banner -->
 <section class="banner bg-cover"
-  style="background-image: url('{{ .Site.Params.DEPLOY_PRIME_URL }}{{ .Site.Params.banner.bgImage | relURL }}');">
-  <img src="{{ .Site.Params.banner.image | relURL }}" class="img-fluid illustration" alt="">
+  style="background-image: url('{{ .Site.Params.DEPLOY_PRIME_URL }}{{ .Site.Params.banner.bgImage }}');">
+  <img src="{{ .Site.Params.banner.image  }}" class="img-fluid illustration" alt="">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 mb-5 mb-lg-0">
         <h2 class="text-warning">{{ .Site.Params.banner.title | markdownify }}</h2>
       </div>
       <div class="col-lg-6 illustration-mobile">
-        <img src="{{ .Site.Params.banner.image | relURL }}" class="img-fluid" alt="">
+        <img src="{{ .Site.Params.banner.image }}" class="img-fluid" alt="">
       </div>
     </div>
   </div>

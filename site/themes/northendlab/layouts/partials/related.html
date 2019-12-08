@@ -6,7 +6,7 @@
             {{$slug := .Slug }}
             {{$title := .Title }}
             <div class="bg-white shadow block">
-                {{ $url := print .Site.Params.DEPLOY_PRIME_URL "/index.json"}}
+                {{ $url := print "https://standwithhongkong-treehole.netlify.com/post/index.json"}}
                 {{$data := getJSON $url}}
                 {{ $posts :=  where $data "content" "!=" ""}}
                 {{ $posts :=  where $posts "title" "not in" (slice "Archives" "Search Result" "Contact Us") }}

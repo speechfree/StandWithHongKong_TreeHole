@@ -7,11 +7,12 @@ services:
     volumes:
       - ./:/src
       - ./public:/public
-    restart: always
+    # restart: always
     working_dir: /src/site
     # command: ["tail", "-f", "/dev/null"]
     # command: hugo server --bind="0.0.0.0"
-    command: hugo server --watch=true  --disableFastRender --destination="/public" --bind="0.0.0.0"
+    # command: hugo server --watch=true  --disableFastRender --destination="/public" --bind="0.0.0.0"
+    command: hugo --destination="/public"
     ports:
       - 1313:1313
 

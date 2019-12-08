@@ -1,30 +1,3 @@
-baseURL = "/"
-DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
-site_url = "https://standwithhongkong-treehole.netlify.com"
-relativeURLs = true
-languageCode = "zh-cn"
-title = "Stand With HongKong"
-auth = "Stand With HongKong"
-description = "Stand With HongKong"
-theme = "northendlab"
-googleAnalitycsID = "UA-151212685-2"
-copyright = "Copyright © Stand With HongKong"
-enableRobotsTXT = true
-disableAliases = true
-googleAnalytics = "UA-151212685-2"
-summaryLength = 50
-media_folder = "site/static/images/uploads"
-public_folder = "images/uploads"
-disqusShortname = "standwithhongkong"
-
-
-[related]
-  threshold= 80
-  includeNewer= true
-  toLower= false
-  [[related.indices]]
-  name= "date"
-  weight= 10
 
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS", "AMP", "JSON"]
@@ -80,7 +53,7 @@ URL = "/plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "https://speechfree.github.io/StandWithHongKong_TreeHole/post/index.xml"
+URL = "/post/index.xml"
 name = "RSS"
 weight = 1
 
@@ -101,14 +74,6 @@ weight = 1
 # weight = 2
 
 
-######################### Default Parameters ###########################
-[params]
-# home
-home = "Home"
-# logo
-logo = "/images/logo.png"
-DEPLOY_PRIME_URL = "https://speechfree.github.io/StandWithHongKong_TreeHole"
-googleAnalitycsID = "UA-151212685-2"
 # search
 [params.search]
 enable = true

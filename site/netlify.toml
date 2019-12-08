@@ -1,0 +1,26 @@
+baseURL = "https://standwithhongkong-treehole.netlify.com"
+DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
+site_url = "https://standwithhongkong-treehole.netlify.com"
+relativeURLs = true
+languageCode = "zh-cn"
+title = "Stand With HongKong"
+auth = "Stand With HongKong"
+description = "Stand With HongKong"
+theme = "northendlab"
+googleAnalitycsID = "UA-151212685-2"
+copyright = "Copyright © Stand With HongKong"
+enableRobotsTXT = true
+disableAliases = true
+googleAnalytics = "UA-151212685-2"
+summaryLength = 50
+media_folder = "site/static/images/uploads"
+public_folder = "images/uploads"
+disqusShortname = "standwithhongkong"
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "/images/logo.png"
+DEPLOY_PRIME_URL = "https://standwithhongkong-treehole.netlify.com"
+googleAnalitycsID = "UA-151212685-2"

@@ -94,7 +94,7 @@
                 <!-- Output page numbers. -->
                 {{ if eq ($.Scratch.Get "page_number_flag") true }}
                 <li class="page-item{{ if eq . $paginator }} page-item active {{ end }}">
-                  <a href="{{ .Site.Params.DEPLOY_PRIME_URL }}{{ .URL }}" class="page-link">
+                  <a href="{{ .URL | absURL }}" class="page-link">
                     {{ .PageNumber }}
                   </a>
                 </li>
@@ -103,7 +103,7 @@
                 <!-- Next page. -->
                 {{ if $paginator.HasNext }}
                 <li class="page-item">
-                  <a href="{{ .Site.Params.DEPLOY_PRIME_URL }}{{ $paginator.Next.URL }}" class="page-link">
+                  <a href="{{ $paginator.Next.URL | absURL}}" class="page-link">
                     &raquo;
                   </a>
                 </li>

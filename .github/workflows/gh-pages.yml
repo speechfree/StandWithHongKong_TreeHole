@@ -20,7 +20,7 @@ jobs:
         # extended: true
 
     - name: Build
-      run: hugo --config site/github.toml,site/base.toml -d ../public -s site -v
+      run: hugo --config github.toml,base.toml -d ../public -s site -v
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0

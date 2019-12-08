@@ -16,13 +16,7 @@ summaryLength = 50
 media_folder = "site/static/images/uploads"
 public_folder = "images/uploads"
 disqusShortname = "standwithhongkong"
-DefaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
-[languages]
-  [languages.zh]
-    contentDir = "content"
-  [languages.en]
-    contentDir = "content/en"
+
 
 [related]
   threshold= 80

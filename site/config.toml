@@ -28,6 +28,8 @@ disqusShortname = "standwithhongkong"
 
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS", "AMP", "JSON"]
+page = ["HTML","JSON"]
+section = ["HTML", "RSS","JSON"]
 
 [permalinks]
     post = "/post/:year-:month-:day-:slug"

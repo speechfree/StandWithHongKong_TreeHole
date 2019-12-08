@@ -1,0 +1,25 @@
+<h3>See Also</h3>
+
+<div class="container">
+    <div class="row">
+        <div class=" mx-auto px-0">
+            {{$slug := .Slug }}
+            <div class="bg-white shadow block">
+                {{ $url := print .Site.Params.DEPLOY_PRIME_URL "/index.json"}}
+                {{$data := getJSON $url}}
+                {{$posts := ($data | shuffle) }}
+                {{range $index,$post := $posts}}
+                {{if lt $index  5}}
+                <article class="mb-5">
+                    <h2 class="h5"><a class="text-dark"
+                            href="{{ $post.ref  }}?utm_source=see_also&utm_medium={{ $slug }}">{{ $post.title | markdownify }}</a>
+                    </h2>
+                    <p class="text-dark">{{$post.summary}}</p>
+                </article>
+                {{end}}
+                {{end}}
+            </div>
+        </div>
+    </div>
+</div>
+</div>

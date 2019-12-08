@@ -13,10 +13,18 @@ enableRobotsTXT = true
 disableAliases = true
 googleAnalytics = "UA-151212685-2"
 summaryLength = 50
-media_folder = "/site/static/images/uploads"
-public_folder = "/site/static/images/uploads"
+media_folder = "site/static/images/uploads"
+public_folder = "images/uploads"
 disqusShortname = "standwithhongkong"
 
+
+[related]
+  threshold= 80
+  includeNewer= true
+  toLower= false
+  [[related.indices]]
+  name= "date"
+  weight= 10
 
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS", "AMP", "JSON"]

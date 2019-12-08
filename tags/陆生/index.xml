@@ -1,32 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>陆生 on </title>
-    <link>/tags/%E9%99%86%E7%94%9F/</link>
-    <description>Recent content in 陆生 on </description>
+    <title>陆生 on Stand With HongKong</title>
+    <link>https://speechfree.github.io/StandWithHongKong_TreeHole/https://speechfree.github.io/StandWithHongKong_TreeHole/tags/%E9%99%86%E7%94%9F/</link>
+    <description>Recent content in 陆生 on Stand With HongKong</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © Stand With HongKong</copyright>
     <lastBuildDate>Sat, 30 Nov 2019 02:11:05 +0800</lastBuildDate>
     
-	<atom:link href="/tags/%E9%99%86%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://speechfree.github.io/StandWithHongKong_TreeHole/tags/%E9%99%86%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    
     
     
     <item>
       <title>10.以前一直是小粉红。 自干五，小粉红，充满了自豪感,用粉色的桌布做国旗</title>
-      <link>/post/mainland-pink/</link>
+      <link>https://speechfree.github.io/StandWithHongKong_TreeHole/https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-11-30-mainland-pink/</link>
       <pubDate>Sat, 30 Nov 2019 02:11:05 +0800</pubDate>
       
-      <guid>/post/mainland-pink/</guid>
+      <guid>https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-11-30-mainland-pink/</guid>
       <description>后来在国外十几年，经过观察和学习。 我当然能感受到哪里的制度更好。但是对于国内，还经常用国内学习的那些谬论，去说服自己，为国内的做法找借口开脱。直到香港的示威发生了。</description>
     </item>
     
+    
+    
     <item>
       <title>9.前在港陆生，现居深圳。如果不是这条推，我真的不太相信有支持的陆生</title>
-      <link>/post/study-in-hk/</link>
+      <link>https://speechfree.github.io/StandWithHongKong_TreeHole/https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-11-30-study-in-hk/</link>
       <pubDate>Sat, 30 Nov 2019 02:11:05 +0800</pubDate>
       
-      <guid>/post/study-in-hk/</guid>
+      <guid>https://speechfree.github.io/StandWithHongKong_TreeHole/post/2019-11-30-study-in-hk/</guid>
       <description>99.99%的大陆同学都在谴责「废青」「暴徒」，不管是回国的，出国的，还是留港的，作痛心疾首状仿佛他们真的对这座城市有多大爱意</description>
     </item>
+    
     
   </channel>
 </rss>

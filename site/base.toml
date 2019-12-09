@@ -57,10 +57,10 @@ URL = "/post/index.xml"
 name = "RSS"
 weight = 1
 
-# [[menu.main]]
-# URL = "tools"
-# name = "tools"
-# weight = 2
+[[menu.main]]
+URL = "link"
+name = "反送中相关网站"
+weight = 2
 
 # # footer menu
 # [[menu.footer]]

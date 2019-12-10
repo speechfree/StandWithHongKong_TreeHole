@@ -40,5 +40,7 @@ summary: 不期望能够给世界带来多少改变，只希望用文字记录�
 
 17. [香港编年史 (https://hkleaks.info/)](https://hkleaks.info/): 记录黑警名单
 
+18. [「WE ARE HKERS 我地係香港人」https://www.wearehkers.com ](https://www.wearehkers.com):是一個雙語平台，致力搜羅香港人的真實故事。
+
 如若提交更多与香港反送中游行有关的网站或页面，欢迎邮件联系：fightforspeechfreedom#gmail.com
 

@@ -28,7 +28,7 @@
   <!-- OG -->
   <meta name="og:title" content=" {{.Title}} ">
   <meta name="og:description" content="{{ with .Summary }} {{ . }} {{else}} {{.Site.Params.cta.description}}{{end}}">
-  <meta name="og:image" content="{{ .Site.Params.DEPLOY_PRIME_URL }}/images/card/{{ index (seq 10 | shuffle) 0 }}.jpg">
+  <meta name="og:image" content="{{ .Site.Params.DEPLOY_PRIME_URL }}/images/card/{{ index (seq 60 | shuffle) 0 }}.jpg">
   <!-- END -->
 
 </head>

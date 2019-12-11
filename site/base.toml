@@ -30,7 +30,7 @@ notAlternative = true
 
 [outputFormats.JSON]
 mediaType = "application/json"
-baseName = "inbox"
+baseName = "index"
 
 
 # css plugins

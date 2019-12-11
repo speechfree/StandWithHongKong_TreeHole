@@ -6,7 +6,7 @@
             {{$slug := .Slug }}
             {{$title := .Title }}
             <div class="bg-white shadow block">
-                {{ $url := print "https://raw.githubusercontent.com/speechfree/StandWithHongKong_TreeHole/gh-pages" "/post/index.json"}}
+                {{ $url := print .Site.Params.DEPLOY_PRIME_URL2 "/post/inbox.json"}}
                 {{$data := getJSON $url}}
                 {{ $posts :=  where $data "content" "!=" ""}}
                 {{ $posts :=  where $posts "title" "not in" (slice "Archives" "Search Result" "Contact Us") }}

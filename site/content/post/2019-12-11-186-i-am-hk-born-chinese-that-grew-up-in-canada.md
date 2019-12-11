@@ -1,7 +1,7 @@
 ---
-title: 187.I am HK born Chinese that grew up in Canada
+title: 186.I am HK born Chinese that grew up in Canada
 slug: Chinese-grew-up-in-canada
-date: '2019-12-11T17:12:16.8720000+08:00'
+date: '2019-12-11T17:53:00.0000000+08:00'
 tags:
   - Chinese-grew-up-in-canada
 summary: >-

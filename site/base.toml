@@ -1,7 +1,6 @@
 
 [outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS", "AMP", "JSON"]
-page = ["HTML","JSON"]
+home = ["HTML", "RSS", "AMP", "JSON"]
 section = ["HTML", "RSS","JSON"]
 
 [permalinks]
@@ -28,6 +27,10 @@ mediatype = "text/netlify"
 baseName = "_headers"
 isPlainText = true
 notAlternative = true
+
+[outputFormats.JSON]
+mediaType = "application/json"
+baseName = "inbox"
 
 
 # css plugins

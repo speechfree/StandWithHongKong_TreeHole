@@ -3,7 +3,7 @@ title: '182.It was for the #hkwearsblack day.'
 slug: 'It was for the #hkwearsblack day.'
 date: '2019-12-11T17:40:00.0000000+08:00'
 tags:
-  - 'It was for the #hkwearsblack day.'
+  - 'It was for the hkwearsblack day.'
 summary: ' did wear all black everything on campus and saw at least one other person in all black that day. It was for the #hkwearsblack day.'
 ---
 

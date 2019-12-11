@@ -23,4 +23,5 @@ home = "Home"
 # logo
 logo = "/images/logo.png"
 DEPLOY_PRIME_URL = "https://speechfree.github.io/StandWithHongKong_TreeHole/"
+DEPLOY_PRIME_URL2 = "https://raw.githubusercontent.com/speechfree/StandWithHongKong_TreeHole/gh-pages"
 googleAnalitycsID = "UA-151212685-2"

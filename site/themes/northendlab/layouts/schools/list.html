@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-3">
         <div class="nav nav-tab flex-column" role="tablist" aria-orientation="vertical">
-          {{ range $index, $elemen:= .Site.Data.schools.schools }}
+          {{ range $index, $elemen:= ( sort .Site.Data.schools.schools "short" ) }}
           <a class="nav-link {{ if eq $index 0}} active {{ end }}" data-toggle="pill" href="#{{.short | urlize}}"
             role="tab">{{ .title }}</a>
           {{ end }}

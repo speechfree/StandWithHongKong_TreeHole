@@ -20,7 +20,7 @@
               <div class="col-md-6 mb-4">
                 <div class="card border-0 shadow embed-responsive embed-responsive-1by1">
                   <a href="#" class="pop">
-                    <img src="{{ .image | relURL }}" alt="{{ .name | markdownify }}"
+                    <img src="{{ .Site.Params.DEPLOY_PRIME_URL }}{{ .image }}" alt="{{ .name | markdownify }}"
                       class="card-img-top embed-responsive-item img-fluid img-thumbnail">
                   </a>
                   <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
